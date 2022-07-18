@@ -1,7 +1,7 @@
-- 👋  I’m @msknDev
-- 👀 I’m interested in everything javaScript
-- 🌱 I’m currently learning ... everything I can!
-- 💞️ I’m looking to collaborate on web apps
-- 📫 How to reach me: maskensolutions.com
+- 👋  I’m @msknDev (Chris) Owner of Masken Solutions LLC.
+- 👀 I’m interested in everything that is interesting. 
+- 🌱 I’m currently learning, building, integrating, parenting, and squinting at my monitor... 
+- 💞️ I’m looking to collaborate!
+- 📫 How to reach me: chris@maskensolutions.com
 
 
